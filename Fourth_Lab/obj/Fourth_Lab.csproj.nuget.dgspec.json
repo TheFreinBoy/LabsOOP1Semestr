@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tetie\\Desktop\\Моё\\Навчання\\прогармування\\Second_Year\\Fourth_Lab\\Fourth_Lab.csproj": {}
+    "C:\\Users\\tetie\\Desktop\\Моё\\Навчання\\прогармування\\Git\\LabsOOP1Semestr-1\\Fourth_Lab\\Fourth_Lab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tetie\\Desktop\\Моё\\Навчання\\прогармування\\Second_Year\\Fourth_Lab\\Fourth_Lab.csproj": {
+    "C:\\Users\\tetie\\Desktop\\Моё\\Навчання\\прогармування\\Git\\LabsOOP1Semestr-1\\Fourth_Lab\\Fourth_Lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tetie\\Desktop\\Моё\\Навчання\\прогармування\\Second_Year\\Fourth_Lab\\Fourth_Lab.csproj",
+        "projectUniqueName": "C:\\Users\\tetie\\Desktop\\Моё\\Навчання\\прогармування\\Git\\LabsOOP1Semestr-1\\Fourth_Lab\\Fourth_Lab.csproj",
         "projectName": "Fourth_Lab",
-        "projectPath": "C:\\Users\\tetie\\Desktop\\Моё\\Навчання\\прогармування\\Second_Year\\Fourth_Lab\\Fourth_Lab.csproj",
+        "projectPath": "C:\\Users\\tetie\\Desktop\\Моё\\Навчання\\прогармування\\Git\\LabsOOP1Semestr-1\\Fourth_Lab\\Fourth_Lab.csproj",
         "packagesPath": "C:\\Users\\tetie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tetie\\Desktop\\Моё\\Навчання\\прогармування\\Second_Year\\Fourth_Lab\\obj\\",
+        "outputPath": "C:\\Users\\tetie\\Desktop\\Моё\\Навчання\\прогармування\\Git\\LabsOOP1Semestr-1\\Fourth_Lab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tetie\\AppData\\Roaming\\NuGet\\NuGet.Config",
